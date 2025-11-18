@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Guanghua School of Management, Peking University, 2017
-* B.S. in Statistics, Sun Yat-sen University, 2013
+* Ph.D. in Mathematical Statistics, School of Statistics and Management, Shanghai University of Finance and Economics, 2022
+* B.S. in Economic Statistics, School of Statistics and Management, Shanghai University of Finance and Economics, 2017
 
 Work experience
 ======
-* Summer 2017: Research Associate
-  * Penn State University
-  * Supervisor: Professor Runze Li
+* 2022-2024, Postdoc 
+  * Peking University
+  * Supervisor: Prof. Song Xi Chen
   
 Skills
 ======

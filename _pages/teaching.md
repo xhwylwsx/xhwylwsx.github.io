@@ -5,4 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- Data Mining
+- Sampling Technique
