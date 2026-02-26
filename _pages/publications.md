@@ -10,7 +10,7 @@ author_profile: true
 - **Shouxia Wang**, Tao Huang, Jinhong You, Ming-Yen Cheng. (2022). [Robust Inference for Nonstationary Time Series with Possibly Multiple Changing Periodic Structures](https://doi.org/10.1080/07350015.2021.1970574). *Journal of Business & Economic Statistics*, 40(4): 1718-1731.
 - **Shouxia Wang**, Tao Huang, Jinhong You. (2022). [Modelling and Applications for Nonstationary Time Series in the Presence of Trend and Period](https://doi.org/10.1360/SSM-2019-0226). *Science China Mathematics (Chinese Series)*，52(2):177-208.
 - Jiyanglin Li，**Shouxia Wang**, Jinhong You. (2022). [Nonparametric Additive model on Discrete Time Series with Periodicity](https://doi.org/10.12386/A2022sxxb0015). *Acta Mathematica Sinica (Chinese Series)*，65(1):177-204.
-- Xueli Fang, **Shouxia Wang**. (2024). [Varying-coefficient Model and Applications for the Periodic Time Series](https://aps.ecnu.edu.cn/article/doi/10.3969/j.issn.1001-4268.2024.01.004). *Journal of Geo-information Science (Chinese Series)*，40(1): 50-74. (Corresponding author)
+- Xueli Fang, **Shouxia Wang**. (2024). [Varying-coefficient Model and Applications for the Periodic Time Series](https://aps.ecnu.edu.cn/article/doi/10.3969/j.issn.1001-4268.2024.01.004). *Chinese Journal of Applied Probability and Statistics (Chinese Series)*，40(1): 50-74. (Corresponding author)
 
 
 
