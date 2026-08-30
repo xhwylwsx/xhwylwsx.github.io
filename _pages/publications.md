@@ -3,7 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Meiling Zeng，Jinhong You，Jicai Liu\*，**Shouxia Wang**\*. On Testing Conditional Mean Independence for Manifold-Valued Data. ICML 2026.
+- **Shouxia Wang**, Jiguo Cao, Hua Liu,  Jicai Liu\*, Jinhong You\*.(2026). [Two Sample Testing for High-Dimensional Functional Data: A Multi-Resolution Projection Method](10.5705/ss.202025.0356). *Statistica Sinica*, accepted online.
+- Meiling Zeng, Jinhong You, Jicai Liu\*, **Shouxia Wang**\*. On Testing Conditional Mean Independence for Manifold-Valued Data. ICML 2026.
 - **Shouxia Wang**, Hua Liu,  Jinhong You, Tao Huang. (2026). [Functional Semiparametric Modeling For Nonstationary and Periodic Time Series Data](https://www.sciencedirect.com/science/article/abs/pii/S0304407625002027). *Journal of Econometrics*, 253:106149.
 - Haoxuan Sun, **Shouxia Wang**, Xiaogu Zheng, Song Xi Chen. (2024). [High-dimensional Ensemble Kalman Filter with Localization, Inflation, and Iterative](https://doi.org/10.1002/qj.4846). *Quarterly Journal of the Royal Meteorological Society*, 150(765):4870–4884.
 - Ming-Yen Cheng, **Shouxia Wang**, Lucy Xia, Xibin Zhang. (2024). [Testing Specification of Distribution in Stochastic Frontier Analysis](https://doi.org/10.1016/j.jeconom.2022.03.002). *Journal of Econometrics*, 2024, 239(2):105280. (Alphabetical Order)
